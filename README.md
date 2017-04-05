@@ -1,12 +1,12 @@
 # Deep learning for image classificatin and NLP
 
 This foler contains two project for the courses:
-* cs231n : Convolutional Neural Networks for Visual Recognition
-* cs224d(2015): Deep learning for natural language processing
+* cs231n : Convolutional Neural Networks for Visual Recognition [](http://cs231n.stanford.edu)
+* cs224d(2015): Deep learning for natural language processing. [](http://cs224d.stanford.edu)
 
 ## Getting Started
 
-These instructions will get you set up you machine for running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you set up for running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
