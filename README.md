@@ -1,16 +1,16 @@
 # Deep learning for image classificatin and NLP
 
 This foler contains two project for the courses:
-1. 
-2.
+* cs231n : Convolutional Neural Networks for Visual Recognition
+* cs224d(2015): Deep learning for natural language processing
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you set up you machine for running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+
 
 ```
 Give examples
