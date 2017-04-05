@@ -1,6 +1,8 @@
 # Deep learning for image classificatin and NLP
 
-In this folder
+This foler contains two project for the courses:
+1. 
+2.
 
 ## Getting Started
 
